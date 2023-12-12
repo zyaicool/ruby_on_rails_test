@@ -1,0 +1,4 @@
+untuk file ada di app/
+nama file question_{nomor soal}.rb
+
+menjalankan filenya => rails runner app/question_{nomor soal}.rb
